@@ -1,2 +1,2 @@
 # Amazon_Vine_Analysis
-Analysis using AWS
+Analysis using AWS database
