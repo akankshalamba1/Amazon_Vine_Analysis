@@ -29,7 +29,7 @@ For this analysis we will be using Personal care appliances dataset
 
 ![vine_table](https://user-images.githubusercontent.com/111251560/209004484-63a8f8e0-ed04-4dfe-8e33-c1d58aa0679b.png)
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
+## Analysis Results: 
 
 ### How many Vine reviews and non-Vine reviews were there?
 
