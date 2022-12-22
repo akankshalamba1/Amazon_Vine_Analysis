@@ -21,6 +21,10 @@ For this analysis we will be using Personal care appliances dataset
 
 ## Analysis Results: 
 
+[Amazon_Reviews_ELT](Amazon_Reviews_ELT.ipynb)
+
+[Vine_Review_Analysis](Vine_Review_Analysis
+)
 ### How many Vine reviews and non-Vine reviews were there?
 
 **Total Vine review:** There are 3 vine reviews where "vine = 'Y'"
