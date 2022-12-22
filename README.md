@@ -55,15 +55,19 @@ For this analysis we will be using Personal care appliances dataset
 #### Following tables were created in PgAdmin
 
 Customers table
+
 ![customers_table](https://user-images.githubusercontent.com/111251560/209004466-6f55e3a1-02db-4698-be1a-1f190b147483.png)
 
 Products table
+
 ![products_table](https://user-images.githubusercontent.com/111251560/209004470-40b87797-fbce-44db-9c93-1af36278e87a.png)
 
 Review id table
+
 ![review_id](https://user-images.githubusercontent.com/111251560/209004526-810b885a-5f36-4a32-964e-c524cf5daa53.png)
 
 Vine table
+
 ![vine_table](https://user-images.githubusercontent.com/111251560/209004484-63a8f8e0-ed04-4dfe-8e33-c1d58aa0679b.png)
 
 
