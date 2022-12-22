@@ -23,7 +23,7 @@ For this analysis we will be using Personal care appliances dataset
 
 [Amazon_Reviews_ELT](Amazon_Reviews_ELT.ipynb)
 
-[Vine_Review_Analysis](Vine_Review_Analysis
+[Vine_Review_Analysis](Vine_Review_Analysis.ipynb)
 )
 ### How many Vine reviews and non-Vine reviews were there?
 
