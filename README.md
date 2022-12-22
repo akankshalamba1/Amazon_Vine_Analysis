@@ -21,7 +21,7 @@ For this analysis we will be using Personal care appliances dataset
 
 ## Analysis Results: 
 
-[Amazon_Reviews_ELT](/Amazon_Reviews_ELT.ipynb)
+[Amazon_Reviews_ETL](/Amazon_Reviews_ETL.ipynb)
 
 [Vine_Review_Analysis](/Vine_Review_Analysis.ipynb)
 
